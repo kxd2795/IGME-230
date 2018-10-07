@@ -54,3 +54,5 @@ On the main menu, there will be the PLAY button to start and a helpful HELP butt
 #### BY. 
 #### FIRE. 
  
+## About the developer
+Kevin Dolan is a fool in his second year of his Game Design and Development degree at the Rochester Institute of Technology at the time of creating this project. He is interested in mischief, video games, programming in C#, and would like to improve his writing, drawing, and music composition abilities when he somehow finds the time to do any of those things.
