@@ -28,15 +28,21 @@ Keep going up the volcano tube into you make it out alive. Shoot down
 ### Platforming
 Jump from platform to go upwards. You have the ability to double jump.
 
+### Shotgun
+* Takes 1 sec to reload.
+* Single, perfectly accurate hitscan shot.
+* BLAM
+
 ### Imps 
 * Take one shot to kill 
 * Kill you when touched 
 * Jump from platform to platform
 
-### Shotgun
-* Takes 1 sec to reload.
-* Single, perfectly accurate hitscan shot.
-* BLAM
+### Floor
+* Is lava
+* Is rising
+* Is MAD
+
 
 
 ## Controls
