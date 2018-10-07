@@ -14,12 +14,8 @@ Graphics: Abstract/cartoonish, like Lovely Planet or High Hell. Color palette wo
 Sound: Hard and crunchy, like Quake 1 sfx.
 UI: Very minimal, you don't need much for a FPS with one weapon. 
 
-
-
 ## Gameplay 
-Quake style fast paced movement and shooting along with frequent but easy platforming. In the volcano tunnel, there are many platforms that you must jump between to go higher and higher. Along the way up, you must shoot down dastardly fire imps that threaten to poke you with their sharp claws. The floor, which is lava, which is your bride, 
-
-
+Quake style fast paced movement and shooting along with frequent but easy platforming. In the volcano tunnel, there are many platforms that you must jump between to go higher and higher. Along the way up, you must shoot down dastardly fire imps that threaten to poke you with their sharp claws. The floor, which is lava, which is your bride, is constantly rising, forcing you to keep going up and up or else face jealous incineration.
 
 Single hitscan, perfectly accurate.
 
@@ -27,7 +23,7 @@ You move with the standard WASD + Spacebar
 
 ## Mechanics 
 ### How to Win
-Keep going up the volcano tube into you make it out alive.
+Keep going up the volcano tube into you make it out alive. Shoot down 
 
 ### Platforming
 Jump from platform to go upwards. You have the ability to double jump.
