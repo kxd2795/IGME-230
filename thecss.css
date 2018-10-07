@@ -1,0 +1,29 @@
+body
+{
+	background-image: linear-gradient(#FD742B 85%, #C71201);
+	background-repeat: repeat-x;
+	background-color: #C71201;
+}
+
+main
+{
+	background-color: #FD742B;
+	margin: 10%;
+}
+
+p
+{
+	margin: 20px;
+}
+
+.intro
+{
+	margin: 20px;
+	padding: 30px;
+}
+
+#storytime
+{
+	font-family: Georgia;
+	font-style: italic;
+}
