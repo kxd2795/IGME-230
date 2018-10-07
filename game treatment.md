@@ -36,7 +36,7 @@ Jump from platform to go upwards. You have the ability to double jump.
 ### Imps 
 * Take one shot to kill 
 * Kill you when touched 
-* Jump from platform to platform
+* Jump from platform to platform to get closer to you
 
 ### Floor
 * Is lava
@@ -50,5 +50,6 @@ Jump from platform to go upwards. You have the ability to double jump.
 WASD to move, spacebar to jump, left mouse button to fire.
 
 ## Player Learning
+On the main menu, there will be the PLAY button to start and a helpful HELP button to bring up the controls and basically the same explanation of the mechanics as the mechanics section above. Regarding the actual teaching of the controls, the platforming, the enemy behavior, it's
 TRIAL. BY. FIRE. 
  
