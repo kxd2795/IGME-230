@@ -1,25 +1,25 @@
-#Project 1 Markdown Bonanza!
-##High Concept
+# Project 1 Markdown Bonanza!
+## High Concept
 Skateboard around the jungle, chompin' on grass as tigers pass!
 
-##Genre
+## Genre
 Sidescrolling Runner
 
-##Platform
+## Platform
 Desktop
 
-##Story
+## Story
 In the great jungle, there was a goat so cool, she couldn't bear to helplessly eat grass with her fellow goats while tigers roamed by, eating her fellow goat friends. So she picked up a skateboard and began tearing through the jungle, eating grass as fast as possible while the mean, lame-o tigers try and put hown her radical ride!
 
-##Aesthetics
+## Aesthetics
 Cartoonish and groovy. Sound would be totally tubular.
 
-##Gameplay
-###Overview
+## Gameplay
+### Overview
 2D endless runner with jumping, grass eating, and tiger avoiding.
-###Feel
+### Feel
 Fast and furry-ious! (Goats have fur.)
-###Mechanics
+### Mechanics
 + Endlessly moving forward
 + Can jump up while on ground
 + Platforms pass above and can be jumped on
